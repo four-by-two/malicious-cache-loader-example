@@ -1,0 +1,3 @@
+export const GET_USER = 'GET_USER'
+export const UPDATE_USERNAME_SUCCESS = 'UPDATE_USERNAME_SUCCESS'
+

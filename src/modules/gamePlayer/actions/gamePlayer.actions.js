@@ -1,0 +1,3 @@
+export const RECEIVE_GAME = 'RECEIVE_GAME'
+export const REQUEST_GAME = 'REQUEST_GAME,'
+export const RECEIVE_GAME_FAIL = 'RECEIVE_GAME_FAIL'
